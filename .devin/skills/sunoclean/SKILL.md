@@ -1,6 +1,6 @@
 ---
-name: audio-metadata
-description: Audio-metadata (Suno/AI tags, encoder, IDs) volledig vervangen door eigen metadata via een centraal metadata.yaml. Gebruik bij het opschonen van gedownloade tracks (Suno, AI-muziek, downloads) of als tags/lyrics/copyright van audiobestanden aangepast moeten worden.
+name: sunoclean
+description: Suno/AI-tags uit audio verwijderen en vervangen door eigen metadata via een centraal metadata.yaml (Suno/AI tags, encoder, IDs) volledig vervangen door eigen metadata via een centraal metadata.yaml. Gebruik bij het opschonen van gedownloade tracks (Suno, AI-muziek, downloads) of als tags/lyrics/copyright van audiobestanden aangepast moeten worden.
 ---
 
 # Audio metadata opschonen en beheren
