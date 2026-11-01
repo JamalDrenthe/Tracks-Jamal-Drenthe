@@ -52,5 +52,6 @@ en te vervangen door eigen, volledig beheerde ID3v2.4-tags.
 - Lyrics (`lyrics`/`lyrics-eng`) **behouden** tenzij de gebruiker anders zegt.
 - Elk veld dat bestaat wordt ook gevuld — geen lege plekken, behalve velden
   die de gebruiker expliciet leeg wil.
+- `encoded_by` is altijd "Jamal Drenthe Clean" (TENC).
 - Verifieer na het schrijven altijd met ffprobe dat er geen vreemde tags
   over zijn en dat elk gewenst veld gevuld is.
