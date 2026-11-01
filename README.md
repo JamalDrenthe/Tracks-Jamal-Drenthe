@@ -1,23 +1,37 @@
 # Tracks - Jamal Drenthe
 
-Muziektracks van Jamal Drenthe, opgeschoond van externe metadata (Suno tags, encoder info, AI/copyright tags).
+Muziektracks van Jamal Drenthe. Alle externe metadata (Suno tags, Suno IDs,
+encoder-info, AI/copyright tags) is verwijderd en vervangen door eigen metadata.
 
-## Metadata beleid
+## Metadata aanpassen
 
-Elke track bevat alleen:
-- `title` = bestandsnaam (zonder extensie)
-- `artist` = Jamal Drenthe
+Alle tags worden centraal beheerd in [`metadata.yaml`](metadata.yaml).
+Per track staan deze velden:
 
-Geen comments, lyrics tags, tool/encoder tags of Suno IDs.
+| veld | betekenis |
+|------|-----------|
+| title | titel van de track |
+| artist | artiest |
+| album_artist | album-artiest |
+| album | album / release |
+| date | datum (YYYY-MM-DD) |
+| genre | genre |
+| copyright | copyrightregel |
+| comment | commentaar |
+| track | tracknummer (bijv. 3/18) |
+| lyrics | songtekst |
 
-## Schoonmaak commando
+Pas een waarde aan in `metadata.yaml` en run daarna:
 
 ```bash
-ffmpeg -y -i input.ext -map 0:a -c copy -map_metadata -1 -bitexact \
-  -metadata title="<titel>" -metadata artist="Jamal Drenthe" output.ext
+pip install pyyaml
+python3 apply_metadata.py
 ```
 
-`-map 0:a` houdt alleen audio (geen cover-art streams), `-c copy` re-encodeert niet, `-map_metadata -1 -bitexact` verwijdert alle overige tags inclusief encoder.
+Het script schrijft de velden in de bestanden in `tracks/` met ffmpeg
+(`-map_metadata -1 -bitexact`: alle andere tags, inclusief encoder, weg;
+`-c copy`: audio wordt niet opnieuw geëncodeerd). Lege velden worden
+overgeslagen; nieuwe velden kun je zelf toevoegen.
 
 ## Upload naar CloudiAudi.cloud
 
