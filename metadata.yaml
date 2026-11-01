@@ -1,57 +1,185 @@
 Appelmoes.wav:
+  grouping: ''
   title: Appelmoes
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-09-03'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 1/18
-  lyrics: ''
-BLXCKWAXABI & MaDarra - MAN DOWN.mp3:
-  title: BLXCKWAXABI & MaDarra - MAN DOWN
-  artist: Jamal Drenthe
-  album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-10-03'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
-  track: 2/18
-  lyrics: ''
-Coco x Coco (Mashup).wav:
-  title: Coco x Coco (Mashup)
-  artist: Jamal Drenthe
-  album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-09-05'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
-  track: 3/18
-  lyrics: ''
-Dmt.wav:
-  title: Dmt
-  artist: Jamal Drenthe
-  album_artist: Jamal Drenthe
-  album: ""
+  disc: 1/1
+  compilation: '0'
   date: '2026-09-03'
+  originaldate: '2026-09-03'
+  releasedate: ''
   genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Appelmoes
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
   copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
   comment: Produced by Jamal Drenthe
-  track: 4/18
   lyrics: ''
-Draai.mp3:
-  title: Draai
+  website: ''
+  cover: ''
+BLXCKWAXABI & MaDarra - MAN DOWN.mp3:
+  grouping: ''
+  title: BLXCKWAXABI & MaDarra - MAN DOWN
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
+  track: 2/18
+  disc: 1/1
+  compilation: '0'
   date: '2026-10-03'
+  originaldate: '2026-10-03'
+  releasedate: ''
   genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: BLXCKWAXABI & MaDarra - MAN DOWN
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
   copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
   comment: Produced by Jamal Drenthe
+  lyrics: ''
+  website: ''
+  cover: ''
+Coco x Coco (Mashup).wav:
+  grouping: ''
+  title: Coco x Coco (Mashup)
+  subtitle: ''
+  artist: Jamal Drenthe
+  album_artist: Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
+  track: 3/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-09-05'
+  originaldate: '2026-09-05'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Coco x Coco (Mashup)
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
+  lyrics: ''
+  website: ''
+  cover: ''
+Dmt.wav:
+  grouping: ''
+  title: Dmt
+  subtitle: ''
+  artist: Jamal Drenthe
+  album_artist: Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
+  track: 4/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-09-03'
+  originaldate: '2026-09-03'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Dmt
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
+  lyrics: ''
+  website: ''
+  cover: ''
+Draai.mp3:
+  grouping: ''
+  title: Draai
+  subtitle: ''
+  artist: Jamal Drenthe
+  album_artist: Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 5/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-10-03'
+  originaldate: '2026-10-03'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Draai
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: '[Intro]
 
     [Instrumental]
@@ -101,27 +229,79 @@ Draai.mp3:
     [Outro]
 
     [Instrumental]'
+  website: ''
+  cover: ''
 Faya Bon Deng.wav:
+  grouping: ''
   title: Faya Bon Deng
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-09-05'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 6/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-09-05'
+  originaldate: '2026-09-05'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Faya Bon Deng
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: ''
+  website: ''
+  cover: ''
 Geweten.mp3:
+  grouping: ''
   title: Geweten
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-10-03'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 7/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-10-03'
+  originaldate: '2026-10-03'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Geweten
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: '[Verse 1]
 
     Ik hoor geweten, smeken
@@ -183,60 +363,190 @@ Geweten.mp3:
     marketing maakt nieuwe slaven
 
     soeverein in alle lagen'
+  website: ''
+  cover: ''
 Grovey.wav:
+  grouping: ''
   title: Grovey
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-09-03'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 8/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-09-03'
+  originaldate: '2026-09-03'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Grovey
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: ''
+  website: ''
+  cover: ''
 Jij doet mee.wav:
+  grouping: ''
   title: Jij doet mee
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-09-13'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 9/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-09-13'
+  originaldate: '2026-09-13'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Jij doet mee
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: ''
+  website: ''
+  cover: ''
 Keti Koti.mp3:
+  grouping: ''
   title: Keti Koti
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-10-03'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 10/18
-  lyrics: '[Instrumental]'
-Kipschnitzel.mp3:
-  title: Kipschnitzel
-  artist: Jamal Drenthe
-  album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-11-01'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
-  track: 11/18
-  lyrics: '[Instrumental]'
-Knibbel Knabbel Knuisje.mp3:
-  title: Knibbel Knabbel Knuisje
-  artist: Jamal Drenthe
-  album_artist: Jamal Drenthe
-  album: ""
+  disc: 1/1
+  compilation: '0'
   date: '2026-10-03'
+  originaldate: '2026-10-03'
+  releasedate: ''
   genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Keti Koti
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
   copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
   comment: Produced by Jamal Drenthe
+  lyrics: '[Instrumental]'
+  website: ''
+  cover: ''
+Kipschnitzel.mp3:
+  grouping: ''
+  title: Kipschnitzel
+  subtitle: ''
+  artist: Jamal Drenthe
+  album_artist: Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
+  track: 11/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-11-01'
+  originaldate: '2026-11-01'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Kipschnitzel
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
+  lyrics: '[Instrumental]'
+  website: ''
+  cover: ''
+Knibbel Knabbel Knuisje.mp3:
+  grouping: ''
+  title: Knibbel Knabbel Knuisje
+  subtitle: ''
+  artist: Jamal Drenthe
+  album_artist: Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 12/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-10-03'
+  originaldate: '2026-10-03'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Knibbel Knabbel Knuisje
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: '[Intro]
 
     [Instrumental]
@@ -354,16 +664,42 @@ Knibbel Knabbel Knuisje.mp3:
     Kom niet fokking aan muh huisje
 
     niğuh, knibbel knabbel knuisje'
+  website: ''
+  cover: ''
 Niet stotter.mp3:
+  grouping: ''
   title: Niet stotter
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-10-03'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 13/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-10-03'
+  originaldate: '2026-10-03'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Niet stotter
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: '[Intro]
 
     [Instrumental]
@@ -393,27 +729,79 @@ Niet stotter.mp3:
     [Outro]
 
     [Instrumental]'
+  website: ''
+  cover: ''
 November.mp3:
+  grouping: ''
   title: November
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-10-03'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 14/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-10-03'
+  originaldate: '2026-10-03'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: November
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: '[Instrumental]'
+  website: ''
+  cover: ''
 Weg wezen.mp3:
+  grouping: ''
   title: Weg wezen
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-10-03'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 15/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-10-03'
+  originaldate: '2026-10-03'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Weg wezen
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: '[Rap]
 
     Weg wezen geen wezen
@@ -457,36 +845,116 @@ Weg wezen.mp3:
     de koppen die lopen met wapen geen kuiken
 
     Geen onderbuiken taf sporen die ruiken!'
+  website: ''
+  cover: ''
 Wip.mp3:
+  grouping: ''
   title: Wip
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-10-02'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 16/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-10-02'
+  originaldate: '2026-10-02'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: Wip
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: ''
+  website: ''
+  cover: ''
 kwijt.wav:
+  grouping: ''
   title: kwijt
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-09-03'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 17/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-09-03'
+  originaldate: '2026-09-03'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: kwijt
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: ''
+  website: ''
+  cover: ''
 schoolshitfriends - blxckwaxabi.mp3:
+  grouping: ''
   title: schoolshitfriends - blxckwaxabi
+  subtitle: ''
   artist: Jamal Drenthe
   album_artist: Jamal Drenthe
-  album: ""
-  date: '2026-10-03'
-  genre: Hip-Hop
-  copyright: (c) 2026 Jamal Drenthe
-  comment: Produced by Jamal Drenthe
+  conductor: ''
+  remixer: ''
+  composer: Jamal Drenthe
+  lyricist: Jamal Drenthe
+  original_artist: ''
+  album: ''
   track: 18/18
+  disc: 1/1
+  compilation: '0'
+  date: '2026-10-03'
+  originaldate: '2026-10-03'
+  releasedate: ''
+  genre: Hip-Hop
+  bpm: ''
+  initialkey: ''
+  mood: ''
+  title-sort: schoolshitfriends - blxckwaxabi
+  artist-sort: Drenthe, Jamal
+  album-sort: ''
+  composer-sort: Drenthe, Jamal
+  language: nld
+  media_type: Digital
+  isrc: ''
+  publisher: Jamal Drenthe
+  copyright: (c) 2026 Jamal Drenthe
+  producer_rights: (p) 2026 Jamal Drenthe
+  encoded_by: sunoclean
+  comment: Produced by Jamal Drenthe
   lyrics: ''
+  website: ''
+  cover: ''
